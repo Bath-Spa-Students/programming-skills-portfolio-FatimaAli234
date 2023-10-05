@@ -1,0 +1,10 @@
+Name = input ("Enter name here:")
+print(Name)
+age=input("enter age here:")
+print(age)
+favouritemeal=input("enter name of meal here")
+print(favouritemeal)
+Fathersname=input("enter fathers name here")
+print(Fathersname)
+
+print("Your name is", Name, "Your age is", age,"your favourite meal is",favouritemeal)
