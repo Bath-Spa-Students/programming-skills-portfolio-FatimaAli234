@@ -1,0 +1,15 @@
+
+places_to_visit=["Tokyo","Venice","paris","Iceland","KSA"]
+print("original order:",places_to_visit)
+print("Alpahbetical order:",sorted(places_to_visit))
+print("original order:",places_to_visit)
+print("Reverse Alphabetical order:",sorted(places_to_visit,reverse=True))
+print("original order:",places_to_visit)
+places_to_visit.reverse()
+print("Reversed order:",places_to_visit)
+places_to_visit.reverse()
+print("original order:",places_to_visit)
+places_to_visit.sort()
+print("Alphabetical order:",places_to_visit)
+places_to_visit.sort(reverse=True)
+print("Reverse alphabetical order:", places_to_visit)
