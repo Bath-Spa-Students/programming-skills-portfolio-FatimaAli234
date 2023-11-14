@@ -1,3 +1,4 @@
+#Write a Python program to merge two dictionaries into one
 
 car1={"brand":"BMW","year":"2022"}
 car2={"model":"x5","color":"Black"}
