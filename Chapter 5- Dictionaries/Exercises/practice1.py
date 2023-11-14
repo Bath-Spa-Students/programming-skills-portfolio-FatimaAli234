@@ -1,3 +1,4 @@
+#Use a dictionary to store information about yourself.
 
 myself={
     "First_name":"Fatima",
