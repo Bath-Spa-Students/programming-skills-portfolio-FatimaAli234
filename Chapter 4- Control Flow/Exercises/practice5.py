@@ -1,4 +1,7 @@
+#Write a Python program that uses the elif statement to determine the season based on the month provided as input.
 
+
+#Taking input from user
 month = input("Enter the month here:")
 
 if month in ["January", "February", "December"]:
